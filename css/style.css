@@ -108,6 +108,8 @@ body:before {
 	top: -71px;
 	width: 0;
 }
+
+.navbar-nav>li.active-style.active a{ background:none; }
 ul {
 	margin: 0px;
 	padding: 0px;
